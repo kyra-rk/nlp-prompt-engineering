@@ -1,7 +1,8 @@
-# LLM-Sentiment
+# LLM-Prompt-Engineering
 
-This repo contains the data and code for our paper "[Sentiment Analysis in the Era of Large Language Models: A Reality Check](https://arxiv.org/abs/2305.15005)".
+This repo contains the data and code for our paper "Comparing Prompt Engineering Techniques".
 
+## TODO clean up this section!! 
 ## Usage
 0. fill in your OpenAI api key in the bash files under `script` folder. For example:
 ```
@@ -29,15 +30,5 @@ bash script/eval_few_shot.sh
 2. You can specify `--selected_tasks` and `--selected_datasets` to only run with certain tasks or datasets.
 
 
-## Citation
-If the code is used in your research, please star our repo and cite our paper as follows:
-```
-@misc{zhang2023sentiment,
-      title={Sentiment Analysis in the Era of Large Language Models: A Reality Check},
-      author={Wenxuan Zhang and Yue Deng and Bing Liu and Sinno Jialin Pan and Lidong Bing},
-      year={2023},
-      eprint={2305.15005},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
+## Reference
+We drew from the code used from the paper ["Sentiment Analysis in the Era of Large Language Models: A Reality Check"](https://arxiv.org/abs/2305.15005) by Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, and Lidong Bing in 2023.
