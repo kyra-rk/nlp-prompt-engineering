@@ -7,12 +7,6 @@ from tenacity import retry, wait_fixed, stop_after_attempt
 import openai
 import requests
 
-# Load the dataset from Hugging Face
-def load_poem_sentiment_dataset():
-    print("Loading dataset...")
-    dataset = load_dataset("google-research-datasets/poem_sentiment")
-    return dataset["train"]  # Assuming we process the training split
-
 # Load dataset from local files based on seed
 def load_local_dataset(seed):
     base_path = os.path.join("poem_data_splits", f"seed_{seed}")
@@ -83,10 +77,10 @@ def query_chatgpt_model(api_key: str, prompt: str, model: str = "gpt-3.5-turbo",
 
 
 @retry(wait=wait_fixed(10), stop=stop_after_attempt(6), before=before_retry_fn)
-def query_flant5_model(prompt):
+def query_flant5_model(api_key, prompt):
     model_url = "https://api-inference.huggingface.co/models/google/flan-t5-small"
-    kyra_hard_coded_api = "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"
-    headers = {"Authorization": f"Bearer {kyra_hard_coded_api}"}
+    print(f"apikey: {api_key}")
+    headers = {"Authorization": f"Bearer {api_key}"}
     payload = {
         "inputs": f"{prompt}",
         "temperature": 0.0
@@ -120,7 +114,7 @@ def process_dataset(dataset, output_folder, setting, model_query_function, api_k
     results = []
 
     for example in tqdm(dataset):
-        text = example["verse_text"]
+        text = example["text"]
         
         try:
             if setting == "zero-shot":
@@ -134,7 +128,7 @@ def process_dataset(dataset, output_folder, setting, model_query_function, api_k
             else:
                 raise ValueError("Invalid setting provided.")
 
-            prediction = model_query_function(api_key, prompt) if api_key else model_query_function(prompt)
+            prediction = model_query_function(api_key, prompt)
         except Exception as e:
             print(f"Skipping due to repeated failures: {e}")
             prediction = "Error"
@@ -186,19 +180,19 @@ def main():
         print_usage()
         return
 
-    if args.seed is not None:
-        try:
-            train_df, eval_df, test_df = load_local_dataset(args.seed)
-            dataset = train_df.to_dict(orient="records")  # Use train dataset by default
-        except ValueError as e:
-            print(f"Error loading dataset: {e}")
-            return
-    else:
-        dataset = load_poem_sentiment_dataset()
+    if args.seed is None:
+        args.seed = 42
+    try:
+        train_df, eval_df, test_df = load_local_dataset(args.seed)
+        # for now we use test dataset since we are not training this model
+        dataset = test_df.to_dict(orient="records")
+    except ValueError as e:
+        print(f"Error loading dataset: {e}")
+        return
 
     output_folder = "poem_sentiment_results"
 
-    api_key = args.api if args.model == "gpt" else None
+    api_key = args.api
     model_query_function = query_chatgpt_model if args.model == "gpt" else query_flant5_model
 
     process_dataset(dataset, output_folder, args.setting, model_query_function, api_key)

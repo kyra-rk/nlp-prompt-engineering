@@ -7,27 +7,38 @@ from datasets import load_dataset
 def load_poem_sentiment_dataset():
     print("Loading dataset from Hugging Face...")
     dataset = load_dataset("google-research-datasets/poem_sentiment")
-    return dataset["train"]  # Assuming we only need the training split
+    return dataset  # Now returning the entire dataset (train, validation, test)
 
 def create_data_splits(output_dir, seeds):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
+    # Load the entire dataset (train, validation, test)
     dataset = load_poem_sentiment_dataset()
-    data = pd.DataFrame({"text": [example["verse_text"] for example in dataset],
-                         "label": [example["label"] for example in dataset]})
+
+    # Combine the 'train', 'validation', and 'test' splits into one dataframe
+    data = pd.concat([
+        pd.DataFrame({"text": [example["verse_text"] for example in dataset["train"]], "label": [example["label"] for example in dataset["train"]]}),
+        pd.DataFrame({"text": [example["verse_text"] for example in dataset["validation"]], "label": [example["label"] for example in dataset["validation"]]}),
+        pd.DataFrame({"text": [example["verse_text"] for example in dataset["test"]], "label": [example["label"] for example in dataset["test"]]})
+    ], ignore_index=True)
 
     for seed in seeds:
         print(f"Creating splits with seed {seed}...")
+        # First, split the dataset into train (60%) and temp (40%)
         train, temp = train_test_split(data, test_size=0.4, random_state=seed)
+        
+        # Then split the temp data into validation (50%) and test (50%)
         val, test = train_test_split(temp, test_size=0.5, random_state=seed)
 
+        # Create a directory for the current seed
         seed_dir = os.path.join(output_dir, f"seed_{seed}")
         if not os.path.exists(seed_dir):
             os.makedirs(seed_dir)
 
+        # Save the splits as CSV files in the seed-specific directory
         train.to_csv(os.path.join(seed_dir, "train.csv"), index=False)
-        val.to_csv(os.path.join(seed_dir, "val.csv"), index=False)
+        val.to_csv(os.path.join(seed_dir, "eval.csv"), index=False)
         test.to_csv(os.path.join(seed_dir, "test.csv"), index=False)
 
         print(f"Data splits for seed {seed} saved in {seed_dir}.")
