@@ -91,8 +91,11 @@ def parallel_query_flant5_model(args):
 
 @retry(wait=wait_fixed(10), stop=stop_after_attempt(6), before=before_retry_fn)
 def query_flant5(api_key, prompt):
-    model_url = "https://api-inference.huggingface.co/models/google/flan-t5-xxl"
+    # model_url = "https://api-inference.huggingface.co/models/google/flan-t5-xxl"
+    model_url = "https://api-inference.huggingface.co/models/google/flan-t5-small"
+    api_key = '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'
     headers = {"Authorization": f"Bearer {api_key}"}
+    print(f'api key for flant5: {api_key}')
     payload = {
         "inputs": f"{prompt}",
         "temperature": 0.0
@@ -359,6 +362,7 @@ def process_dataset(task, dataset, file_path, output_folder, api_key, setting, n
             elif args.model == "davinci":
                 parallel_call = parallel_query_davinci_model
             elif args.model == "flant5":
+                print("FLANNNN")
                 parallel_call = parallel_query_flant5_model
             elif args.model == "flanul2":
                 parallel_call = parallel_query_flanul2_model
@@ -384,6 +388,7 @@ def process_dataset(task, dataset, file_path, output_folder, api_key, setting, n
                 max_len = max(max_len, len(prompt.split()))
                 if index == 0:
                     prompt_sample = prompt
+                print("FAKKKKKKEEEEE")
                 pred = generate_fake_data(task, dataset, label_space, row)
                 prompts.append(prompt)
                 predictions.append(pred)
