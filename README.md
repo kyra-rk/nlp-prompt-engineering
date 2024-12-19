@@ -3,12 +3,13 @@
 This repo contains the data and code for our paper "Comparing Prompt Engineering Techniques".
 
 ## Authors
-Anum Ahmad 
-Kyra Ramesh Krishna
-Tramy Dong
+Anum Ahmad, Kyra Ramesh Krishna, and Tramy Dong
 
 ## Datasets 
 We use the google-research-datasets/poem_sentiment dataset from Hugging Face. We have built a script `make_data.py` that extracts the data from the site and combines the train, validation and test data into one cohesive dataset. The folder `poem_data` with the file `poem_sentiment_data.csv` is the result of running this program.
+
+## Setting Up
+We have conveniently created `setup_venv.sh` to help you set up a virtual environment that will install all the neccesary packages for you. Simply run `source setup_venv.sh`.
 
 ## Usage
 You can run `predict.py` on a poem sentiment classification task with FlanT5 and ChatGPT. You will need to specify the setting, model, and api key as arguments to this program:
@@ -50,6 +51,7 @@ Example:
 1. To view the summary of prompts and evaluation results, please navigate to the output folder (eg. `poen_sentiment_results`) and check the respective setting `.csv` (eg. zero-shot, few-shot etc.).
 2. You will need to specify the model and setting for each run. 
 3. The `predict.py` code can be generalized for many other classification tasks as well.
+4. You can find sample results from `poem_evaluate.py` in `project_eval_results.txt`, which are the results after running on a truncated portion of the poem dataset. 
 
 ## Code References
 We drew from the code used from the paper ["Sentiment Analysis in the Era of Large Language Models: A Reality Check"](https://arxiv.org/abs/2305.15005) by Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, and Lidong Bing in 2023.
