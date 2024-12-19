@@ -45,7 +45,7 @@ Arguments:
   --output_dir <output_dir>             (optional) Directory to save evaluation results (default: <model>_<task>_evaluation_results)
 
 Example:
-    python3 evaluate.py --setting zero-shot --model flant5 --true_labels_file data_truncated.csv
+    python3 evaluate.py --task poem --setting zero-shot --model flant5 --predictions_dir poem_sentiment_data_truncated_flant5_predictions --true_labels_file data_truncated.csv
 ```
 
 ## Note
