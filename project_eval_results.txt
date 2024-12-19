@@ -1,0 +1,19 @@
+ Setting: zero-shot
+  Model: flant5
+  Seed: 42
+  Output Directory: evaluation_results
+Evaluating predictions from poem_sentiment_results/predictions_zero-shot.csv against true labels in poem_data_splits/seed_42/test.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.18      1.00      0.31        36
+           1       0.68      0.42      0.52        36
+           2       0.00      0.00      0.00       141
+           3       0.00      0.00      0.00         8
+
+    accuracy                           0.23       221
+   macro avg       0.22      0.35      0.21       221
+weighted avg       0.14      0.23      0.13       221
+
+Evaluation complete. F1 Score: 0.2059
+
