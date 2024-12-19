@@ -139,7 +139,7 @@ def process_dataset(dataset, output_folder, setting, model_query_function, api_k
 def print_usage():
     print("""
 Usage:
-  python predict.py --setting <setting> --model <model> [--api <API_KEY>] [--seed <SEED>]
+  python3 predict.py --setting <setting> --model <model> [--api <API_KEY>] [--seed <SEED>]
 
 Arguments:
   --setting <setting>           (required) One of: zero-shot, few-shot, chain-of-thought, meta
@@ -149,7 +149,7 @@ Arguments:
   --filename <filename>         (required) Filename for dataset inside source directory
 
 Example:
-  python predict.py --setting zero-shot --model gpt --api YOUR_OPENAI_API_KEY --data_source poem_data --filename poem_sentiment_data.csv
+  python3 predict.py --setting zero-shot --model flant5 --api YOUR_HUGGINGFACE_ACCESS_TOKEN --data_source poem_sentiment --filename data.csv
 """)
 
 # Main function
@@ -180,7 +180,8 @@ def main():
         print(f"Error loading dataset: {e}")
         return
 
-    output_folder = f"{args.data_source}_{args.filename}_{args.model}_predictions"
+    name = os.path.splitext(args.filename)[0]
+    output_folder = f"{args.data_source}_{name}_{args.model}_predictions"
     print(f"writing to {output_folder}")
 
     api_key = args.api

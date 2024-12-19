@@ -1,19 +1,22 @@
- Setting: zero-shot
+truncated_flant5_zero-shot_poem_evaluation_results
+  Setting: zero-shot
   Model: flant5
-  Seed: 42
-  Output Directory: evaluation_results
-Evaluating predictions from poem_sentiment_results/predictions_zero-shot.csv against true labels in poem_data_splits/seed_42/test.csv...
+  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
+  Predictions Source File: predictions_flant5_zero-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: truncated_flant5_zero-shot_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
-           0       0.18      1.00      0.31        36
-           1       0.68      0.42      0.52        36
-           2       0.00      0.00      0.00       141
-           3       0.00      0.00      0.00         8
+           0       0.19      1.00      0.32       174
+           1       0.68      0.41      0.51       150
+           2       0.00      0.00      0.00       625
+           3       0.00      0.00      0.00        49
 
-    accuracy                           0.23       221
-   macro avg       0.22      0.35      0.21       221
-weighted avg       0.14      0.23      0.13       221
+    accuracy                           0.24       998
+   macro avg       0.22      0.35      0.21       998
+weighted avg       0.14      0.24      0.13       998
 
-Evaluation complete. F1 Score: 0.2059
-
+Evaluation complete. F1 Score: 0.2091
