@@ -99,7 +99,7 @@ def query_flant5_model(api_key, prompt):
 
 
 # Process the dataset and apply prompts
-def process_dataset(dataset, output_folder, setting, model_query_function, api_key, data_source, filename):
+def process_dataset(dataset, output_folder, setting, model_query_function, api_key, model):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
@@ -131,7 +131,7 @@ def process_dataset(dataset, output_folder, setting, model_query_function, api_k
             "prediction": prediction
         })
 
-    output_path = os.path.join(output_folder, f"predictions_{setting}.csv")
+    output_path = os.path.join(output_folder, f"predictions_{model}_{setting}.csv")
     pd.DataFrame(results).to_csv(output_path, index=False)
     print(f"Results saved to {output_path}")
 
@@ -187,7 +187,7 @@ def main():
     api_key = args.api
     model_query_function = query_chatgpt_model if args.model == "gpt" else query_flant5_model
 
-    process_dataset(dataset, output_folder, args.setting, model_query_function, api_key, args.data_source, args.filename)
+    process_dataset(dataset, output_folder, args.setting, model_query_function, api_key, args.data_source, args.filename, args.model)
 
 if __name__ == "__main__":
     main()

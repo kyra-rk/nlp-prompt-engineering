@@ -16,7 +16,7 @@ Arguments:
   --predictions_file <predictions_dir>  (optional) Filename of prediction data (default: predictions_flant5_zero-shot.csv)
   --true_labels_dir <true_labels_dir>   (optional) Directory to find true label data in (default: poem_sentiment)
   --true_labels_file <true_labels_file> (optional) Filename of true label data (default: data.csv)
-  --output_dir <output_dir>             (optional) Directory to save evaluation results (default: <model>_<setting>_poem_evaluation_results)
+  --output_dir <output_dir>             (optional) Directory to save evaluation results (default: <model>_poem_evaluation_results)
 
 Example:
     python3 poem_evaluate.py --setting zero-shot --model flant5 --predictions_dir poem_sentiment_data_truncated_flant5_predictions --true_labels_file data_truncated.csv --output_dir truncated_flant5_zero-shot_poem_evaluation_results
@@ -38,8 +38,8 @@ def parse_args():
                         help="Directory to find true label data in (default: poem_sentiment)")
     parser.add_argument("--true_labels_file", type=str,
                         help="Filename of true label data (default: data.csv)")
-    parser.add_argument("--output_dir", type=str, default="evaluation_results", 
-                        help="Directory to save evaluation results (default: <model>_<setting>_poem_evaluation_results)")
+    parser.add_argument("--output_dir", type=str, 
+                        help="Directory to save evaluation results (default: <model>_poem_evaluation_results)")
     return parser.parse_args()
 
 def get_file_paths(predictions_dir, predictions_filename, true_label_dir, true_label_filename):
@@ -110,7 +110,7 @@ def main():
     if args.true_labels_file is None:
         args.true_labels_file = "data.csv"
     if args.output_dir is None:
-        args.output_dir = f"{args.model}_{args.setting}_poem_evaluation_results"
+        args.output_dir = f"{args.model}_poem_evaluation_results"
     
     print(f"  Setting: {args.setting}")
     print(f"  Model: {args.model}")
