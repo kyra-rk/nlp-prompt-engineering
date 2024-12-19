@@ -147,3 +147,28 @@ weighted avg       0.47      0.38      0.41       994
 
 Evaluation complete. F1 Score: 0.2805
 Results saved in gpt_poem_evaluation_results
+
+  Task: poem
+  Setting: chain-of-thought
+  Model: gpt
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt_predictions
+  Predictions Source File: predictions_gpt_chain-of-thought.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt_predictions/predictions_gpt_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.21      0.31      0.25       173
+           1       0.18      0.30      0.22       149
+           2       0.65      0.44      0.53       619
+           3       0.08      0.10      0.09        49
+
+    accuracy                           0.38       990
+   macro avg       0.28      0.29      0.27       990
+weighted avg       0.47      0.38      0.41       990
+
+Evaluation complete. F1 Score: 0.2721
+Results saved in gpt_poem_evaluation_results
+
