@@ -1,0 +1,149 @@
+Evaluation Results on Truncated Data (< 1000)
+
+Testing on flan-t5-small:
+
+  Task: poem
+  Setting: zero-shot
+  Model: flant5
+  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
+  Predictions Source File: predictions_flant5_zero-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: flant5_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.19      1.00      0.32       174
+           1       0.68      0.41      0.51       150
+           2       0.00      0.00      0.00       625
+           3       0.00      0.00      0.00        49
+
+    accuracy                           0.24       998
+   macro avg       0.22      0.35      0.21       998
+weighted avg       0.14      0.24      0.13       998
+
+Evaluation complete. F1 Score: 0.2091
+Results saved in flant5_poem_evaluation_results
+
+  Task: poem
+  Setting: few-shot
+  Model: flant5
+  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
+  Predictions Source File: predictions_flant5_few-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: flant5_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.10      0.05      0.07       174
+           1       0.12      0.27      0.16       150
+           2       0.65      0.59      0.62       625
+           3       0.00      0.00      0.00        49
+
+    accuracy                           0.42       998
+   macro avg       0.22      0.23      0.21       998
+weighted avg       0.44      0.42      0.42       998
+
+Evaluation complete. F1 Score: 0.2128
+Results saved in flant5_poem_evaluation_results
+
+  Task: poem
+  Setting: chain-of-thought
+  Model: flant5
+  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
+  Predictions Source File: predictions_flant5_chain-of-thought.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: flant5_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.17      0.03      0.05       174
+           1       0.15      0.91      0.25       150
+           2       0.68      0.03      0.06       625
+           3       0.00      0.00      0.00        49
+
+    accuracy                           0.16       998
+   macro avg       0.25      0.24      0.09       998
+weighted avg       0.48      0.16      0.08       998
+
+Evaluation complete. F1 Score: 0.0896
+Results saved in flant5_poem_evaluation_results
+
+  Task: poem
+  Setting: meta
+  Model: flant5
+  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
+  Predictions Source File: predictions_flant5_meta.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: flant5_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_meta.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.30      0.11      0.16       174
+           1       0.16      0.97      0.27       150
+           2       0.00      0.00      0.00       625
+           3       0.00      0.00      0.00        49
+
+    accuracy                           0.16       998
+   macro avg       0.11      0.27      0.11       998
+weighted avg       0.08      0.16      0.07       998
+
+Evaluation complete. F1 Score: 0.1069
+Results saved in flant5_poem_evaluation_results
+
+Testing on gpt-4o-mini:
+
+  Task: poem
+  Setting: zero-shot
+  Model: gpt
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt_predictions
+  Predictions Source File: predictions_gpt_zero-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt_predictions/predictions_gpt_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.20      0.26      0.22       173
+           1       0.21      0.26      0.24       149
+           2       0.64      0.57      0.60       621
+           3       0.03      0.02      0.03        49
+
+    accuracy                           0.44       992
+   macro avg       0.27      0.28      0.27       992
+weighted avg       0.47      0.44      0.45       992
+
+Evaluation complete. F1 Score: 0.2722
+Results saved in gpt_poem_evaluation_results
+
+  Task: poem
+  Setting: few-shot
+  Model: gpt
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt_predictions
+  Predictions Source File: predictions_gpt_few-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt_predictions/predictions_gpt_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.20      0.32      0.24       173
+           1       0.20      0.31      0.24       149
+           2       0.64      0.43      0.52       623
+           3       0.11      0.14      0.12        49
+
+    accuracy                           0.38       994
+   macro avg       0.29      0.30      0.28       994
+weighted avg       0.47      0.38      0.41       994
+
+Evaluation complete. F1 Score: 0.2805
+Results saved in gpt_poem_evaluation_results
