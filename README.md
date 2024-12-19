@@ -29,29 +29,30 @@ Example:
 ```
 
 ## Evaluation
-You can run the program `poem_evaluate.py` to evaluate the results stored in `poem_sentiment_data_flant5_predictions` against the true label data stored in `poem_sentiment/data.csv`. You must specify the `setting` (zero-shot, few-shot etc.), the `model` (eg. gpt, flant5). You can optionally specify the predictions file and directory, the true labels file and directory and the output directory. By default, the program will assume flant5 and will run on the existing predictions. Error results will be written to `<model>_<setting>_poem_evaluation_results` and overall metric calculations will be printed to stdout. 
+You can run the program `evaluate.py` to evaluate the results stored in `<task>_sentiment_data_<model>_predictions/predictions_<model>_<setting>.csv` against the true label data stored in `poem_sentiment/data.csv`. You must specify the `task` (one of: poem, tweet and yelp), the `setting` (one of: zero-shot, few-shot etc.), the `model` (one of: gpt, flant5). You can optionally specify the predictions file and directory, the true labels file and directory and the output directory. By default, the program will generate the file names based on the task, model and setting. Error results will be written to `<model>_<setting>_<task>_evaluation_results` and overall metric calculations will be printed to stdout. 
 ```
 Usage:
-  python3 poem_evaluate.py --setting <setting> --model <model> [--predictions_dir <predictions_dir>] [--predictions_file <predictions_file>] [--true_labels_dir <true_labels_dir>] [--true_labels_file <true_labels_file>] [--output_dir <output_dir>]
+  python3 evaluate.py --task <task> --setting <setting> --model <model> [--predictions_dir <predictions_dir>] [--predictions_file <predictions_file>] [--true_labels_dir <true_labels_dir>] [--true_labels_file <true_labels_file>] [--output_dir <output_dir>]
 
 Arguments:
+  --task <task>                         (required) Sentiment classification task (choose from: poem, tweet, yelp)
   --setting <setting>                   (required) Evaluation setting (e.g., zero-shot, few-shot, chain-of-thought, meta)
-  --model <model>                       (required) Model to use (e.g., gpt, flant5)
-  --predictions_dir <predictions_dir>   (optional) Directory to find prediction data in (default: poem_sentiment_data_flant5_predictions)
-  --predictions_file <predictions_dir>  (optional) Filename of prediction data (default: predictions_flant5_zero-shot.csv)
-  --true_labels_dir <true_labels_dir>   (optional) Directory to find true label data in (default: poem_sentiment)
+  --model <model>                       (required) Model to use (choose from: gpt, flant5)
+  --predictions_dir <predictions_dir>   (optional) Directory to find prediction data in (default: <task>_sentiment_data_<model>_predictions)
+  --predictions_file <predictions_file> (optional) Filename of prediction data (default: predictions_<model>_<setting>.csv)
+  --true_labels_dir <true_labels_dir>   (optional) Directory to find true label data in (default: <task>_sentiment)
   --true_labels_file <true_labels_file> (optional) Filename of true label data (default: data.csv)
-  --output_dir <output_dir>             (optional) Directory to save evaluation results (default: <model>_<setting>_poem_evaluation_results)
+  --output_dir <output_dir>             (optional) Directory to save evaluation results (default: <model>_<task>_evaluation_results)
 
 Example:
-    python3 poem_evaluate.py --setting zero-shot --model flant5 --predictions_dir poem_sentiment_data_truncated_flant5_predictions --true_labels_file data_truncated.csv --output_dir truncated_flant5_zero-shot_poem_evaluation_results
+    python3 evaluate.py --setting zero-shot --model flant5 --true_labels_file data_truncated.csv
 ```
 
 ## Note
 1. To view the summary of prompts and evaluation results, please navigate to the output folder (eg. `poen_sentiment_results`) and check the respective setting `.csv` (eg. zero-shot, few-shot etc.).
 2. You will need to specify the model and setting for each run. 
-3. The `predict.py` code can be generalized for many other classification tasks as well.
-4. You can find sample results from `poem_evaluate.py` in `project_eval_results.txt`, which are the results after running on a truncated portion of the poem dataset. 
+3. The `predict.py` and `evaluate.py` code can be generalized for many other classification tasks as well. Just note to update the arguments and the prediction extraction.
+4. You can find sample results from `evaluate.py` on poem sentiment classification in `project_eval_results.txt`, which are the results after running on a truncated portion of the poem dataset.
 
 ## Code References
 We drew from the code used from the paper ["Sentiment Analysis in the Era of Large Language Models: A Reality Check"](https://arxiv.org/abs/2305.15005) by Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, and Lidong Bing in 2023.

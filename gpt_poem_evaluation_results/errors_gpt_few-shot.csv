@@ -1,0 +1,2566 @@
+text,label,prompt,prediction
+to hide the orb of truth--and every throne,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to hide the orb of truth--and every throne",0.0
+the call's more urgent when he journeys slow.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the call's more urgent when he journeys slow.",3.0
+in monumental pomp! no grecian drop,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+in monumental pomp! no grecian drop",0.0
+so prythee get thee gone.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+so prythee get thee gone.",0.0
+me honied paths forsake;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+me honied paths forsake;",0.0
+fifty times the brahmins' offer deluged all the floor.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+fifty times the brahmins' offer deluged all the floor.",0.0
+made snow of all the blossoms; at my feet,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+made snow of all the blossoms; at my feet",1.0
+"he never told us what he was,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+he never told us what he was,",0.0
+"he says he’s hungry,—he would rather have",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+he says he’s hungry,—he would rather have",0.0
+the hostile cohorts melt away;,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the hostile cohorts melt away;",0.0
+"and the old swallow-haunted barns,--",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and the old swallow-haunted barns,--",2.0
+"from god's design, with threads of rain!",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+from god's design, with threads of rain!",1.0
+"how over, though, for even me who knew",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+how over, though, for even me who knew",0.0
+"warped into adamantine fretwork, hung",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+warped into adamantine fretwork, hung",1.0
+wilt thou forget the love that joined us here?,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+wilt thou forget the love that joined us here?",0.0
+have roughened in the gales!,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+have roughened in the gales!",0.0
+should favour equal to the sons of heaven:,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+should favour equal to the sons of heaven:",1.0
+fu' to ba' de battle's brunt.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+fu' to ba' de battle's brunt.",0.0
+"when on the boughs the purple buds expand,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+when on the boughs the purple buds expand,",1.0
+upon the thought of perfect noon. and when,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+upon the thought of perfect noon. and when",2.0
+"she falls back from the freedom she had hoped.""",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+she falls back from the freedom she had hoped.""",0.0
+"amidst the gold and the purple, and the pillows of his bed:",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+amidst the gold and the purple, and the pillows of his bed:",1.0
+"all hastening onward, yet none seemed to know",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+all hastening onward, yet none seemed to know",0.0
+"i'm safe enlisted fer the war,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i'm safe enlisted fer the war,",3.0
+a way that safely will my passage guide.”,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a way that safely will my passage guide.”",1.0
+"returne, the starres of morn shall see him rise",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+returne, the starres of morn shall see him rise",1.0
+"who, never looking forward, are indeed",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+who, never looking forward, are indeed",0.0
+"while from his hand i squeeze the golden prize,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+while from his hand i squeeze the golden prize,",1.0
+as when i read in god's own holy book.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+as when i read in god's own holy book.",1.0
+"and while before me, spotted with white sails,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and while before me, spotted with white sails,",1.0
+yet that whip's name too noble,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+yet that whip's name too noble",3.0
+it spoils me for the smiling of the rest’—,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+it spoils me for the smiling of the rest’—",0.0
+"yearns to its source. the spirit thirsts for god,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+yearns to its source. the spirit thirsts for god,",1.0
+whose potent unity and concentric force,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+whose potent unity and concentric force",2.0
+"now, if thou art a poet, tell me not",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+now, if thou art a poet, tell me not",0.0
+"jes heavy 'nough to turn a scale thet's doubtfle the wrong way,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+jes heavy 'nough to turn a scale thet's doubtfle the wrong way,",0.0
+case dey nevah tech a drouf.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+case dey nevah tech a drouf.",0.0
+it will be spring again.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+it will be spring again.",1.0
+sang as little children sing;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+sang as little children sing;",1.0
+"from flight, seditious angel, to receave",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+from flight, seditious angel, to receave",3.0
+"what once has been and ne'er shall be again,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+what once has been and ne'er shall be again,",0.0
+"that truthful teacup, our dictator, knows;",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+that truthful teacup, our dictator, knows;",3.0
+when hills are free from snow,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+when hills are free from snow",1.0
+"uttering bare truth, even so as foes commend.",1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+uttering bare truth, even so as foes commend.",3.0
+"is passed, and our aereal speed suspended.",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+is passed, and our aereal speed suspended.",0.0
+i have lost the urban ways.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i have lost the urban ways.",0.0
+a golden helm his front and head surrounds,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a golden helm his front and head surrounds",1.0
+"said, `pass not, so cold, these manifold",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+said, `pass not, so cold, these manifold",0.0
+"he plays a little, sings a song,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+he plays a little, sings a song,",1.0
+low in supplication bending.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+low in supplication bending.",0.0
+"""sorry?  of course you are, though you compress,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""sorry?  of course you are, though you compress,",0.0
+i would not live alway,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i would not live alway",0.0
+"the king ordains their entrance, and ascends",1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the king ordains their entrance, and ascends",2.0
+"in prosperous days. like a dim, waning lamp",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+in prosperous days. like a dim, waning lamp",0.0
+jarr'd his own golden region; and before,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+jarr'd his own golden region; and before",3.0
+the poet comes the last!,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the poet comes the last!",0.0
+with many sighs;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+with many sighs;",0.0
+"where, all the long and lone daylight,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+where, all the long and lone daylight,",0.0
+was she not somewhat that he could not rule,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+was she not somewhat that he could not rule",0.0
+"you didn't stop for fuss,--",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+you didn't stop for fuss,--",0.0
+see! neptune’s altars minister their brands:,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+see! neptune’s altars minister their brands:",3.0
+"to match your wit against the maker's will,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to match your wit against the maker's will,",3.0
+"absently fingering and touching it,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+absently fingering and touching it,",0.0
+ran ever clearer speech than that did run,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+ran ever clearer speech than that did run",2.0
+"i left the place with all my might, --",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i left the place with all my might, --",0.0
+he has no calling and he owns no trade.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+he has no calling and he owns no trade.",0.0
+an' see a hundred hills like islan's,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+an' see a hundred hills like islan's",1.0
+misnames as the dog rosey now.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+misnames as the dog rosey now.",0.0
+"and hoping chink, she talked of morts of luck:",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and hoping chink, she talked of morts of luck:",3.0
+"the meadows mine, the mountains mine, --",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the meadows mine, the mountains mine, --",1.0
+"ho! philip, send, for charity, thy mexican pistoles,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+ho! philip, send, for charity, thy mexican pistoles,",1.0
+"what's de use o' gittin' mopy,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+what's de use o' gittin' mopy,",0.0
+"yet by experience taught we know how good,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+yet by experience taught we know how good,",1.0
+as if she were a woman. we who have clipt,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+as if she were a woman. we who have clipt",3.0
+"it would be different if more people came,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+it would be different if more people came,",3.0
+"plucked from the death, wilt thou repay me thus?",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+plucked from the death, wilt thou repay me thus?",0.0
+"a spirit of unresting flame,",1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a spirit of unresting flame,",3.0
+"hear its low inward singing,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+hear its low inward singing,",1.0
+and keep my senses straightened,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and keep my senses straightened",1.0
+"mind us of like repose, since god hath set",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+mind us of like repose, since god hath set",1.0
+lift their blue woods in broken chain,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+lift their blue woods in broken chain",3.0
+in nothing is wanting;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+in nothing is wanting;",1.0
+"and kissed him with a sister's kiss,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and kissed him with a sister's kiss,",1.0
+"""thou of the god-lent crown,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""thou of the god-lent crown,",1.0
+like pageantry of mist on an autumnal stream.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+like pageantry of mist on an autumnal stream.",1.0
+"he smell de bacon cookin', an' he hyeah de fiah hum;",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+he smell de bacon cookin', an' he hyeah de fiah hum;",1.0
+"smoothing the clustered hair, and parting it",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+smoothing the clustered hair, and parting it",1.0
+"looks, and is dumb with awe;",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+looks, and is dumb with awe;",1.0
+"a thousand rubs had flattened down each little cherub's nose,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a thousand rubs had flattened down each little cherub's nose,",0.0
+"a fragrance from the cedars, thickly set",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a fragrance from the cedars, thickly set",1.0
+of bright and dark obscurity;,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+of bright and dark obscurity;",2.0
+"already, land! thou hast declared:  'tis done.",1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+already, land! thou hast declared:  'tis done.",2.0
+"the eyes beside had wrung them dry,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the eyes beside had wrung them dry,",0.0
+o sun-hint that hath overspread,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+o sun-hint that hath overspread",1.0
+"like your nest,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+like your nest,",1.0
+despised am i by those who call'd me friend,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+despised am i by those who call'd me friend",0.0
+"no, i won't be seein' nobody in the mornin',",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+no, i won't be seein' nobody in the mornin',",0.0
+the crack as of her splitting. did she take,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the crack as of her splitting. did she take",0.0
+your paynim heroes faster ride,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+your paynim heroes faster ride",2.0
+"_you_ took to follerin' where the prophets beckoned,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+_you_ took to follerin' where the prophets beckoned,",3.0
+so that my stern resolve was almost gone.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+so that my stern resolve was almost gone.",0.0
+"the quavering thunder thereupon had ceas'd,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the quavering thunder thereupon had ceas'd,",2.0
+to his aid the strong reverses,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to his aid the strong reverses",0.0
+"and leave the words unspoken i yet have will to speak.""",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and leave the words unspoken i yet have will to speak.""",3.0
+and the lure of what is called heaven is little or nothing to me.,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and the lure of what is called heaven is little or nothing to me.",0.0
+me up like that.  'essence de la valliere'--,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+me up like that.  'essence de la valliere'--",3.0
+"but when i read of the brotherhood of lovers, how it was with them;",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+but when i read of the brotherhood of lovers, how it was with them;",3.0
+"with dews of tropic morning wet,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+with dews of tropic morning wet,",1.0
+‘received that cheque.’ but you!... i send you funds,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+‘received that cheque.’ but you!... i send you funds",3.0
+attend your brother to the stygian flood.”,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+attend your brother to the stygian flood.”",0.0
+"shining and shouting each to each that place),",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+shining and shouting each to each that place),",1.0
+with sincerest conviction their chairs to the shore;,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+with sincerest conviction their chairs to the shore;",2.0
+my prayer away i threw;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+my prayer away i threw;",0.0
+"an old smoaked blanket arches oer his head,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+an old smoaked blanket arches oer his head,",0.0
+"“the nymph, who scatters flaming fires around,",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+“the nymph, who scatters flaming fires around,",1.0
+swifter far than youth's delight--,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+swifter far than youth's delight--",2.0
+"burns in thee, child?--what good can thee betide,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+burns in thee, child?--what good can thee betide,",0.0
+to make a body curse.,0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to make a body curse.",2.0
+"no, no, you have dismiss'd me; and i go",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+no, no, you have dismiss'd me; and i go",0.0
+"before the saintly soul, whose human will",1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+before the saintly soul, whose human will",2.0
+"now rise and look upon me.""  and she rose,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+now rise and look upon me.""  and she rose,",3.0
+"apple-blossoms pink, and low",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+apple-blossoms pink, and low",1.0
+"we’ll say instead, the inconsequent creature, man,—",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+we’ll say instead, the inconsequent creature, man,—",0.0
+with level wings swinging,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+with level wings swinging",1.0
+"lift not your hands in the banded war,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+lift not your hands in the banded war,",0.0
+"would my heart and life flow onward, deathward, through this dream of",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+would my heart and life flow onward, deathward, through this dream of",0.0
+"but de lawd is all aroun' you,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+but de lawd is all aroun' you,",1.0
+"tain't the words alone, but feelin's,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+tain't the words alone, but feelin's,",3.0
+"no angry bolt, but harmless flame.",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+no angry bolt, but harmless flame.",2.0
+"the love that lived through all the stormy past,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the love that lived through all the stormy past,",1.0
+"but it is not enough, ah! not enough",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+but it is not enough, ah! not enough",0.0
+"is plain, thou say'st: but wherefore god this way",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+is plain, thou say'st: but wherefore god this way",3.0
+"to rise upon some other shore,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to rise upon some other shore,",1.0
+fall again.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+fall again.",0.0
+"love, on myriad lips fairer than yours, kisses you could not give! . . .",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+love, on myriad lips fairer than yours, kisses you could not give! . . .",0.0
+"when thou hadst overcome the sharpness of death, thou didst open the kingdom of heaven to all believers.",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+when thou hadst overcome the sharpness of death, thou didst open the kingdom of heaven to all believers.",1.0
+"and wit, like ocean, rose and fell?--",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and wit, like ocean, rose and fell?--",2.0
+"rais’d on the seas, the surges to control—",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+rais’d on the seas, the surges to control—",1.0
+"the herded wolves, bold only to pursue;",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the herded wolves, bold only to pursue;",0.0
+would we were bidden with the rest!,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+would we were bidden with the rest!",0.0
+daih 's de ho'n a blowin'!,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+daih 's de ho'n a blowin'!",1.0
+"his hand the captive's fetters broke,",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+his hand the captive's fetters broke,",1.0
+"and say, ‘fie, pale-face! are you english girls",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and say, ‘fie, pale-face! are you english girls",0.0
+"at length they turn to nothing else but down,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+at length they turn to nothing else but down,",0.0
+i think i'll just call up my wife and tell her,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i think i'll just call up my wife and tell her",1.0
+they shaped our future; we but carve their names.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+they shaped our future; we but carve their names.",3.0
+"nor the president in his presidency, nor the rich in his great house.",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+nor the president in his presidency, nor the rich in his great house.",0.0
+how many times we must have met,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+how many times we must have met",0.0
+then the smile from her bright eyes faded and a flush came over her cheek,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+then the smile from her bright eyes faded and a flush came over her cheek",0.0
+lowly and soft she said it; but spake out louder now:,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+lowly and soft she said it; but spake out louder now:",3.0
+the dust of half a century lies,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the dust of half a century lies",0.0
+"here comes the cripple jane!""  and by a fountain's side",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+here comes the cripple jane!""  and by a fountain's side",3.0
+"so neighbour'd to him, and yet so unseen",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+so neighbour'd to him, and yet so unseen",0.0
+"how nature to the soul is moored,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+how nature to the soul is moored,",1.0
+"""rubadub! rubadub! wake and take the road again,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""rubadub! rubadub! wake and take the road again,",1.0
+i do not keer a jot;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i do not keer a jot;",0.0
+let the scared dreamer wake to see,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+let the scared dreamer wake to see",3.0
+"(like essence-peddlers) thet'll make folks long to be without 'em,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+(like essence-peddlers) thet'll make folks long to be without 'em,",0.0
+"lord, remember me!""",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+lord, remember me!""",0.0
+"and country eyes, and quiet faces --",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and country eyes, and quiet faces --",1.0
+i can see how you might. but i don't know!,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i can see how you might. but i don't know!",3.0
+"the orchestra had cheered till they were hoarse,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the orchestra had cheered till they were hoarse,",1.0
+"""now the place where the accident occurred----""",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""now the place where the accident occurred----""",0.0
+the morning and the evening made his day.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the morning and the evening made his day.",1.0
+"of blooming myrtle and faint lemon-flowers,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+of blooming myrtle and faint lemon-flowers,",1.0
+"the play is done,--the curtain drops,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the play is done,--the curtain drops,",0.0
+and murmured a strange and solemn air;,0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and murmured a strange and solemn air;",2.0
+"the cloud is gone that wove the sandstone,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the cloud is gone that wove the sandstone,",1.0
+time never did assuage;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+time never did assuage;",0.0
+the deer invites no longer,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the deer invites no longer",0.0
+"to paris, and you make no sign at all.",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to paris, and you make no sign at all.",0.0
+"even hearts estranged would turn once more to me,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+even hearts estranged would turn once more to me,",1.0
+"the china dustless, the keen knife-blades bright,",1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the china dustless, the keen knife-blades bright,",2.0
+"you shall not find the sons of atreus here,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+you shall not find the sons of atreus here,",0.0
+to intercept the sunshine and your face.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to intercept the sunshine and your face.",1.0
+"these fly to the heavens--their course never ends,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+these fly to the heavens--their course never ends,",1.0
+"their heads, distilling gore, his chariot grace.",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+their heads, distilling gore, his chariot grace.",0.0
+the story of a spavined steed;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the story of a spavined steed;",0.0
+while with thy childlike faith we lean,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+while with thy childlike faith we lean",1.0
+"a wagon, overarched with evergreen,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a wagon, overarched with evergreen,",1.0
+"upon her sister dear,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+upon her sister dear,",1.0
+"""before god, sir, i vow, when you are gone,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""before god, sir, i vow, when you are gone,",0.0
+"“acca, ’tis past! he swims before my sight,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+“acca, ’tis past! he swims before my sight,",3.0
+with spring’s delicious trouble in the ground,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+with spring’s delicious trouble in the ground",1.0
+"they are fastened well, nom d'un chien!",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+they are fastened well, nom d'un chien!",3.0
+"""a quick consumption, that no art could cure!",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""a quick consumption, that no art could cure!",0.0
+"love works at the centre,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+love works at the centre,",1.0
+of nature's gold and mints it.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+of nature's gold and mints it.",1.0
+"and she passed out between the blessed things,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and she passed out between the blessed things,",2.0
+"by his sacrifice, foreknown",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+by his sacrifice, foreknown",3.0
+"and that unrest which men miscall delight,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and that unrest which men miscall delight,",0.0
+her eye proclaims her of the briton line:,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+her eye proclaims her of the briton line:",1.0
+mere raft of stone;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+mere raft of stone;",0.0
+"where the cloudy hangings waver and the flickering shadows fall,",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+where the cloudy hangings waver and the flickering shadows fall,",2.0
+still is my heart and vacant is my breath--,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+still is my heart and vacant is my breath--",0.0
+"(so thick they crowd), 'tis hardly seen.",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+(so thick they crowd), 'tis hardly seen.",0.0
+"we were content to show,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+we were content to show,",1.0
+"young childhood, with a moisten'd eye,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+young childhood, with a moisten'd eye,",1.0
+to touch such goodness with a grimy palm.,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to touch such goodness with a grimy palm.",0.0
+"the willows, and the hazel copses green,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the willows, and the hazel copses green,",1.0
+but laon? on high freedom's desert land,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+but laon? on high freedom's desert land",0.0
+i would not live alway--live alway below!,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i would not live alway--live alway below!",0.0
+yon creamy lily for their pavilion,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+yon creamy lily for their pavilion",1.0
+"appeared to me,--may i again behold it!",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+appeared to me,--may i again behold it!",1.0
+"betrayed how mightily its heart was stirred,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+betrayed how mightily its heart was stirred,",0.0
+"overleaning, with flickering meaning and sign,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+overleaning, with flickering meaning and sign,",3.0
+no man could compete with kwasind.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+no man could compete with kwasind.",0.0
+"precisely, at all events, what he ought not,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+precisely, at all events, what he ought not,",0.0
+and to thy brief captivity was brought,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and to thy brief captivity was brought",0.0
+and listening to thy home's familiar chime,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and listening to thy home's familiar chime",1.0
+"dearest, why should i mourn, whimper, and whine, i that have yet to live?",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+dearest, why should i mourn, whimper, and whine, i that have yet to live?",0.0
+"in every health we drink, my boys,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+in every health we drink, my boys,",1.0
+"where holds the soul communion with its god,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+where holds the soul communion with its god,",1.0
+bred onely and completed to the taste,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+bred onely and completed to the taste",1.0
+"thus hee in scorn. the warlike angel mov'd,",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+thus hee in scorn. the warlike angel mov'd,",3.0
+"the leprous corpse, touched by this spirit tender,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the leprous corpse, touched by this spirit tender,",0.0
+"ambrosial odours and ambrosial flowers,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+ambrosial odours and ambrosial flowers,",1.0
+"""as the gods would i see,"" said sigurd, ""though death light up the land.""",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""as the gods would i see,"" said sigurd, ""though death light up the land.""",0.0
+"you hardly know when you are coming back,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+you hardly know when you are coming back,",0.0
+"but the great spirit plants it in our hearts,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+but the great spirit plants it in our hearts,",1.0
+"of his faint steed; the latter, as he stretch’d",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+of his faint steed; the latter, as he stretch’d",0.0
+"these often bathed she in her fluxive eyes,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+these often bathed she in her fluxive eyes,",1.0
+who felt your own thought worthy of record,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+who felt your own thought worthy of record",2.0
+"ez though i wanted to enlist 'em,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+ez though i wanted to enlist 'em,",3.0
+tis gone past recalling!,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+tis gone past recalling!",0.0
+"and stiff in fight, but serious drill's despair,",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and stiff in fight, but serious drill's despair,",3.0
+at his approaching footsteps.  winter came,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+at his approaching footsteps.  winter came",0.0
+our lives and safeties all;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+our lives and safeties all;",1.0
+that little barley-cake you keep from him,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+that little barley-cake you keep from him",0.0
+our wavering apparitions pass,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+our wavering apparitions pass",0.0
+her thoughts are like the lotus,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+her thoughts are like the lotus",1.0
+but now for me than you—the other way.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+but now for me than you—the other way.",3.0
+the echoing sounds grow fainter and then cease;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the echoing sounds grow fainter and then cease;",0.0
+"you'll not want business, for we need a lot",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+you'll not want business, for we need a lot",0.0
+"still, upon a flower,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+still, upon a flower,",1.0
+it's a pretty early start.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+it's a pretty early start.",1.0
+"he takes you from your easy-chair,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+he takes you from your easy-chair,",0.0
+accept the gift which i have wrought,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+accept the gift which i have wrought",1.0
+"a day's experunce 'd prove to ye, ez easy 'z pull a trigger.",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a day's experunce 'd prove to ye, ez easy 'z pull a trigger.",3.0
+as hebe's foot bore nectar round,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+as hebe's foot bore nectar round",1.0
+"till, fur 'z i know, there aint an inch thet i could lay my han' on,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+till, fur 'z i know, there aint an inch thet i could lay my han' on,",0.0
+"some thought of me, a last fond prayer",1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+some thought of me, a last fond prayer",3.0
+"begins, but endeth nevermore;",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+begins, but endeth nevermore;",0.0
+"valentines, paper and tinsel,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+valentines, paper and tinsel,",1.0
+when lips and heart refuse to part again,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+when lips and heart refuse to part again",1.0
+"whereto we claim sole title by our toil,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+whereto we claim sole title by our toil,",1.0
+that antwerp monks may sing a mass for thy poor spearmen's souls.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+that antwerp monks may sing a mass for thy poor spearmen's souls.",0.0
+"""sir, i have dreamed of you. i pray you, sir,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""sir, i have dreamed of you. i pray you, sir,",1.0
+the message is not like what i have learned,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the message is not like what i have learned",0.0
+"luck obeys the downright striker; from the hollow core,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+luck obeys the downright striker; from the hollow core,",3.0
+with such vehement force and might,0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+with such vehement force and might",3.0
+his silent sandals swept the mossy green;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+his silent sandals swept the mossy green;",1.0
+"but half the secret told,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+but half the secret told,",3.0
+bedaubed with iridescent dirt.,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+bedaubed with iridescent dirt.",0.0
+"so thick, she cannot see her lover hiding,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+so thick, she cannot see her lover hiding,",0.0
+and so i should be loved and mourned to-night.,3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and so i should be loved and mourned to-night.",0.0
+"and _channing_, with his bland, superior look,",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and _channing_, with his bland, superior look,",0.0
+the head that lay against your knees,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+the head that lay against your knees",1.0
+"is shorter than a snake's delay,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+is shorter than a snake's delay,",0.0
+"how your soft opera-music changed, and the drum and fife were heard in their stead;",3,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+how your soft opera-music changed, and the drum and fife were heard in their stead;",2.0
+to his ears there came a murmur of far seas beneath the wind,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to his ears there came a murmur of far seas beneath the wind",1.0
+and all the honors that he sought to leave,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and all the honors that he sought to leave",3.0
+"a level space of nameless graves,--",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+a level space of nameless graves,--",0.0
+from his lady's white hand caught;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+from his lady's white hand caught;",1.0
+"ef 'twarn't for studyin' evenins, why, i never 'd ha' ben here",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+ef 'twarn't for studyin' evenins, why, i never 'd ha' ben here",1.0
+"to feel, with bird and stream and tree,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+to feel, with bird and stream and tree,",1.0
+and sleigh-bells a-jingle,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and sleigh-bells a-jingle",1.0
+"soon ez she gits out o' sight,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+soon ez she gits out o' sight,",0.0
+alone went the fair-armed gudrun to her flowery garden-close;,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+alone went the fair-armed gudrun to her flowery garden-close;",3.0
+"and i greet from far the ray,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+and i greet from far the ray,",1.0
+"they still keep piping in their honey dreams,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+they still keep piping in their honey dreams,",1.0
+"now betimes on a morning of summer that giuki's daughter arose,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+now betimes on a morning of summer that giuki's daughter arose,",1.0
+"no, truly.--i will see her; tell my tale,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+no, truly.--i will see her; tell my tale,",3.0
+ere i own an usurper i'll couch with the fox;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+ere i own an usurper i'll couch with the fox;",0.0
+"will seek the half unjeweled tide,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+will seek the half unjeweled tide,",0.0
+"turn'd back the shafts, and mock'd the gates of death,",0,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+turn'd back the shafts, and mock'd the gates of death,",1.0
+"tell me, the charms that lovers seek",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+tell me, the charms that lovers seek",1.0
+"then loosen, launch forth, to go and compete,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+then loosen, launch forth, to go and compete,",1.0
+"with its chang'd countenance, is sent away",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+with its chang'd countenance, is sent away",0.0
+i envy the farmer's boy,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+i envy the farmer's boy",0.0
+strong tarchon snatch’d and bore away his prize.,1,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+strong tarchon snatch’d and bore away his prize.",3.0
+"""who's we?--some stockholders in boston?",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+""who's we?--some stockholders in boston?",0.0
+"where wisdom and not numbers should have weight,",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+where wisdom and not numbers should have weight,",3.0
+would he move--so as yet they made nothing of land;,2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+would he move--so as yet they made nothing of land;",0.0
+"shall part, yet link, thy nature's tone and mine.",2,"
+    Here are examples of sentiment classification:
+    1. ""and that is why, the lonesome day,"" -> negative
+    2. ""with pale blue berries. in these peaceful shades--"" -> positive
+    3. ""it flows so long as falls the rain,"" -> no_impact
+    4. ""when i peruse the conquered fame of heroes, and the victories of mighty generals, i do not envy the generals,"" -> mixed
+    
+Classify the following text into one of the four categories: 0 (negative), 1 (positive), 2 (no_impact), 3 (mixed)
+shall part, yet link, thy nature's tone and mine.",3.0
