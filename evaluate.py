@@ -13,7 +13,7 @@ Usage:
 Arguments:
   --task <task>                         (required) Sentiment classification task (choose from: poem, tweet, yelp)
   --setting <setting>                   (required) Evaluation setting (e.g., zero-shot, few-shot, chain-of-thought, meta)
-  --model <model>                       (required) Model to use (choose from: gpt, flant5)
+  --model <model>                       (required) Model to use (choose from: gpt-4o-mini, gpt-3.5-turbo, gpt-3.5-turbo-instruct, flan-t5-large, flan-t5-small)
   --predictions_dir <predictions_dir>   (optional) Directory to find prediction data in (default: <task>_sentiment_data_<model>_predictions)
   --predictions_file <predictions_file> (optional) Filename of prediction data (default: predictions_<model>_<setting>.csv)
   --true_labels_dir <true_labels_dir>   (optional) Directory to find true label data in (default: <task>_sentiment)
@@ -21,7 +21,7 @@ Arguments:
   --output_dir <output_dir>             (optional) Directory to save evaluation results (default: <model>_<task>_evaluation_results)
 
 Example:
-    python3 evaluate.py --task poem --setting zero-shot --model flant5 --predictions_dir poem_sentiment_data_truncated_flant5_predictions --true_labels_file data_truncated.csv
+    python3 evaluate.py --task poem --setting zero-shot --model flan-t5-small --predictions_dir poem_sentiment_data_truncated_flant5_predictions --true_labels_file data_truncated.csv
 """)
 
 def parse_args():
@@ -33,7 +33,7 @@ def parse_args():
     parser.add_argument("--setting", type=str,
                         help="Evaluation setting (e.g., zero-shot, few-shot, chain-of-thought, meta)")
     parser.add_argument("--model", type=str,
-                        help="Model to use (e.g., gpt, flant5)")
+                        help="Model to use (e.g., gpt-4o-mini, gpt-3.5-turbo, gpt-3.5-turbo-instruct, flan-t5-large, flan-t5-small)")
     parser.add_argument("--predictions_dir", type=str,
                         help="Directory to find prediction data in (default: <task>_sentiment_data_<model>_predictions)")
     parser.add_argument("--predictions_file", type=str,
@@ -128,7 +128,7 @@ def main():
     args = parse_args()
     
     valid_settings = ["zero-shot", "few-shot", "chain-of-thought", "meta"]
-    valid_models = ["gpt", "flant5"]
+    valid_models = ["gpt-4o-mini", "gpt-3.5-turbo", "gpt-3.5-turbo-instruct", "flant5"]
     valid_tasks = ["poem", "tweet", "yelp"]
 
     if (not args.setting) or (args.setting not in valid_settings):

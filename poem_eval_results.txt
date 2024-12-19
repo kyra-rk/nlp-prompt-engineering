@@ -4,13 +4,13 @@ Testing on flan-t5-small:
 
   Task: poem
   Setting: zero-shot
-  Model: flant5
-  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
-  Predictions Source File: predictions_flant5_zero-shot.csv
+  Model: flan-t5-small
+  Predictions Source Directory: poem_sentiment_data_truncated_flan-t5-small_predictions
+  Predictions Source File: predictions_flan-t5-small_zero-shot.csv
   True Labels Source Directory: poem_sentiment
   True Labels Source File: data_truncated.csv
-  Output Directory: flant5_poem_evaluation_results
-Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+  Output Directory: flan-t5-small_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flan-t5-small_predictions/predictions_flan-t5-small_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
@@ -24,17 +24,17 @@ Classification Report:
 weighted avg       0.14      0.24      0.13       998
 
 Evaluation complete. F1 Score: 0.2091
-Results saved in flant5_poem_evaluation_results
+Results saved in flan-t5-small_poem_evaluation_results
 
   Task: poem
   Setting: few-shot
-  Model: flant5
-  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
-  Predictions Source File: predictions_flant5_few-shot.csv
+  Model: flan-t5-small
+  Predictions Source Directory: poem_sentiment_data_truncated_flan-t5-small_predictions
+  Predictions Source File: predictions_flan-t5-small_few-shot.csv
   True Labels Source Directory: poem_sentiment
   True Labels Source File: data_truncated.csv
-  Output Directory: flant5_poem_evaluation_results
-Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+  Output Directory: flan-t5-small_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flan-t5-small_predictions/predictions_flan-t5-small_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
@@ -48,17 +48,17 @@ Classification Report:
 weighted avg       0.44      0.42      0.42       998
 
 Evaluation complete. F1 Score: 0.2128
-Results saved in flant5_poem_evaluation_results
+Results saved in flan-t5-small_poem_evaluation_results
 
   Task: poem
   Setting: chain-of-thought
-  Model: flant5
-  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
-  Predictions Source File: predictions_flant5_chain-of-thought.csv
+  Model: flan-t5-small
+  Predictions Source Directory: poem_sentiment_data_truncated_flan-t5-small_predictions
+  Predictions Source File: predictions_flan-t5-small_chain-of-thought.csv
   True Labels Source Directory: poem_sentiment
   True Labels Source File: data_truncated.csv
-  Output Directory: flant5_poem_evaluation_results
-Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
+  Output Directory: flan-t5-small_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flan-t5-small_predictions/predictions_flan-t5-small_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
@@ -72,17 +72,17 @@ Classification Report:
 weighted avg       0.48      0.16      0.08       998
 
 Evaluation complete. F1 Score: 0.0896
-Results saved in flant5_poem_evaluation_results
+Results saved in flan-t5-small_poem_evaluation_results
 
   Task: poem
   Setting: meta
-  Model: flant5
-  Predictions Source Directory: poem_sentiment_data_truncated_flant5_predictions
-  Predictions Source File: predictions_flant5_meta.csv
+  Model: flan-t5-small
+  Predictions Source Directory: poem_sentiment_data_truncated_flan-t5-small_predictions
+  Predictions Source File: predictions_flan-t5-small_meta.csv
   True Labels Source Directory: poem_sentiment
   True Labels Source File: data_truncated.csv
-  Output Directory: flant5_poem_evaluation_results
-Evaluating predictions from poem_sentiment_data_truncated_flant5_predictions/predictions_flant5_meta.csv against true labels in poem_sentiment/data_truncated.csv...
+  Output Directory: flan-t5-small_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_flan-t5-small_predictions/predictions_flan-t5-small_meta.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
@@ -96,19 +96,19 @@ Classification Report:
 weighted avg       0.08      0.16      0.07       998
 
 Evaluation complete. F1 Score: 0.1069
-Results saved in flant5_poem_evaluation_results
+Results saved in flan-t5-small_poem_evaluation_results
 
 Testing on gpt-4o-mini:
 
   Task: poem
   Setting: zero-shot
-  Model: gpt
-  Predictions Source Directory: poem_sentiment_data_truncated_gpt_predictions
-  Predictions Source File: predictions_gpt_zero-shot.csv
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-4o-mini_predictions
+  Predictions Source File: predictions_gpt-4o-mini_zero-shot.csv
   True Labels Source Directory: poem_sentiment
   True Labels Source File: data_truncated.csv
-  Output Directory: gpt_poem_evaluation_results
-Evaluating predictions from poem_sentiment_data_truncated_gpt_predictions/predictions_gpt_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-4o-mini_predictions/predictions_gpt-4o-mini_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
@@ -122,17 +122,17 @@ Classification Report:
 weighted avg       0.47      0.44      0.45       992
 
 Evaluation complete. F1 Score: 0.2722
-Results saved in gpt_poem_evaluation_results
+Results saved in gpt-4o-mini_poem_evaluation_results
 
   Task: poem
   Setting: few-shot
-  Model: gpt
-  Predictions Source Directory: poem_sentiment_data_truncated_gpt_predictions
-  Predictions Source File: predictions_gpt_few-shot.csv
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-4o-mini_predictions
+  Predictions Source File: predictions_gpt-4o-mini_few-shot.csv
   True Labels Source Directory: poem_sentiment
   True Labels Source File: data_truncated.csv
-  Output Directory: gpt_poem_evaluation_results
-Evaluating predictions from poem_sentiment_data_truncated_gpt_predictions/predictions_gpt_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-4o-mini_predictions/predictions_gpt-4o-mini_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
@@ -146,17 +146,17 @@ Classification Report:
 weighted avg       0.47      0.38      0.41       994
 
 Evaluation complete. F1 Score: 0.2805
-Results saved in gpt_poem_evaluation_results
+Results saved in gpt-4o-mini_poem_evaluation_results
 
   Task: poem
   Setting: chain-of-thought
-  Model: gpt
-  Predictions Source Directory: poem_sentiment_data_truncated_gpt_predictions
-  Predictions Source File: predictions_gpt_chain-of-thought.csv
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-4o-mini_predictions
+  Predictions Source File: predictions_gpt-4o-mini_chain-of-thought.csv
   True Labels Source Directory: poem_sentiment
   True Labels Source File: data_truncated.csv
-  Output Directory: gpt_poem_evaluation_results
-Evaluating predictions from poem_sentiment_data_truncated_gpt_predictions/predictions_gpt_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-4o-mini_predictions/predictions_gpt-4o-mini_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
 Classification Report:
               precision    recall  f1-score   support
 
@@ -170,5 +170,28 @@ Classification Report:
 weighted avg       0.47      0.38      0.41       990
 
 Evaluation complete. F1 Score: 0.2721
-Results saved in gpt_poem_evaluation_results
+Results saved in gpt-4o-mini_poem_evaluation_results
 
+  Task: poem
+  Setting: meta
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt_predictions
+  Predictions Source File: predictions_gpt-4o-mini_meta.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt_predictions/predictions_gpt-4o-mini_meta.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       174
+           1       0.15      1.00      0.26       150
+           2       0.00      0.00      0.00       625
+           3       0.00      0.00      0.00        49
+
+    accuracy                           0.15       998
+   macro avg       0.04      0.25      0.07       998
+weighted avg       0.02      0.15      0.04       998
+
+Evaluation complete. F1 Score: 0.0653
+Results saved in gpt-4o-mini_poem_evaluation_results

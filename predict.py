@@ -12,7 +12,7 @@ import requests
 def parse_args():
     parser = argparse.ArgumentParser(description="Classification Predictions")
     parser.add_argument("--setting", choices=["zero-shot", "few-shot", "chain-of-thought", "meta"], help="The type of prompt to use.")
-    parser.add_argument("--model", choices=["gpt", "flant5"], help="The model to use.")
+    parser.add_argument("--model", choices=["gpt-4o-mini", "gpt-3.5-turbo", "gpt-3.5-turbo-instruct", "flan-t5-large", "flan-t5-small"], help="The model to use.")
     parser.add_argument("--api", help="The OpenAI API key (only required for GPT models).")
     parser.add_argument("--data_source", help="Source directory containing the data file (e.g., poem_data).")
     parser.add_argument("--filename", help="Filename of the .csv file containing the data (e.g., data.csv).")
@@ -66,7 +66,7 @@ def before_retry_fn(retry_state):
         print(f"Retrying API call. Attempt #{retry_state.attempt_number}")
 
 @retry(wait=wait_fixed(10), stop=stop_after_attempt(6))
-def query_chatgpt_model(api_key: str, prompt: str, model: str = "gpt-4o-mini", temperature: float = 0.7):
+def query_chatgpt_model(model, api_key: str, prompt: str, temperature: float = 0.7):
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
@@ -91,8 +91,8 @@ def query_chatgpt_model(api_key: str, prompt: str, model: str = "gpt-4o-mini", t
         raise
 
 @retry(wait=wait_fixed(10), stop=stop_after_attempt(6), before=before_retry_fn)
-def query_flant5_model(api_key, prompt):
-    model_url = "https://api-inference.huggingface.co/models/google/flan-t5-small"
+def query_flant5_model(model, api_key, prompt):
+    model_url = f"https://api-inference.huggingface.co/models/google/{model}"
     headers = {"Authorization": f"Bearer {api_key}"}
     payload = {
         "inputs": f"{prompt}",
@@ -129,7 +129,7 @@ def process_dataset(dataset, output_folder, setting, model_query_function, api_k
             else:
                 raise ValueError("Invalid setting provided.")
 
-            prediction = model_query_function(api_key, prompt)
+            prediction = model_query_function(model, api_key, prompt)
         except Exception as e:
             print(f"Skipping due to repeated failures: {e}")
             prediction = "Error"
@@ -152,13 +152,13 @@ Usage:
 
 Arguments:
   --setting <setting>           (required) One of: zero-shot, few-shot, chain-of-thought, meta
-  --model <model>               (required) One of: gpt, flant5
+  --model <model>               (required) One of: gpt-4o-mini, gpt-3.5-turbo, gpt-3.5-turbo-instruct, flan-t5-large, flan-t5-small
   --api <API_KEY>               (required) Either Open-AI API key for gpt or HuggingFace access token for flant5 Inference API access
   --data_source <data_source>   (required) Source directory for dataset
   --filename <filename>         (required) Filename for dataset inside source directory
 
 Example:
-  python3 predict.py --setting zero-shot --model flant5 --api YOUR_HUGGINGFACE_ACCESS_TOKEN --data_source poem_sentiment --filename data.csv
+  python3 predict.py --setting zero-shot --model flan-t5-small --api YOUR_HUGGINGFACE_ACCESS_TOKEN --data_source poem_sentiment --filename data.csv
 """)
 
 # Main function
@@ -194,7 +194,8 @@ def main():
     print(f"writing to {output_folder}")
 
     api_key = args.api
-    model_query_function = query_chatgpt_model if args.model == "gpt" else query_flant5_model
+    
+    model_query_function = query_chatgpt_model if "gpt" in args.model else query_flant5_model
 
     process_dataset(dataset, output_folder, args.setting, model_query_function, api_key, args.model)
 

@@ -48,6 +48,16 @@ Example:
     python3 evaluate.py --task poem --setting zero-shot --model flant5 --predictions_dir poem_sentiment_data_truncated_flant5_predictions --true_labels_file data_truncated.csv
 ```
 
+## Optimization
+To easily run all tests all at once, we use the bash scripts inside `scripts`. Edit the files to include YOUR API keys before running the following:
+```
+chmod +x eval_gpt.sh run_gpt.sh
+./run_gpt.sh
+./eval_gpt.sh
+./run_flant5.sh
+./eval_flant5.sh
+```
+
 ## Note
 1. To view the summary of prompts and evaluation results, please navigate to the output folder (eg. `poen_sentiment_results`) and check the respective setting `.csv` (eg. zero-shot, few-shot etc.).
 2. You will need to specify the model and setting for each run. 
@@ -56,3 +66,5 @@ Example:
 
 ## Code References
 We drew from the code used from the paper ["Sentiment Analysis in the Era of Large Language Models: A Reality Check"](https://arxiv.org/abs/2305.15005) by Wenxuan Zhang, Yue Deng, Bing Liu, Sinno Jialin Pan, and Lidong Bing in 2023.
+
+We used ChatGPT to assist in writing the bash scripts in `scripts` for automating the prediction and evaluation processes in this project.
