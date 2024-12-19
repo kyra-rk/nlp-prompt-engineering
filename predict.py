@@ -4,7 +4,9 @@ import pandas as pd
 from datasets import load_dataset
 from tqdm import tqdm
 from tenacity import retry, wait_fixed, stop_after_attempt
-import openai
+from openai import AsyncOpenAI
+import requests
+import asyncio
 import requests
 
 def parse_args():
@@ -63,23 +65,30 @@ def before_retry_fn(retry_state):
     if retry_state.attempt_number > 1:
         print(f"Retrying API call. Attempt #{retry_state.attempt_number}")
 
-@retry(wait=wait_fixed(10), stop=stop_after_attempt(6), before=before_retry_fn)
-def query_chatgpt_model(api_key: str, prompt: str, model: str = "gpt-3.5-turbo", max_tokens: int = 256, temperature: float = 0):
-    openai.api_key = api_key
+@retry(wait=wait_fixed(10), stop=stop_after_attempt(6))
+def query_chatgpt_model(api_key: str, prompt: str, model: str = "gpt-4o-mini", temperature: float = 0.7):
+    url = "https://api.openai.com/v1/chat/completions"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}"
+    }
+    payload = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": temperature
+    }
+    
     try:
-        completions = openai.ChatCompletion.create(
-            model=model,
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=max_tokens,
-            n=1,
-            stop=None,
-            temperature=temperature,
-        )
-        return completions.choices[0].message.content.strip()
-    except Exception as e:
+        # Make the POST request to the OpenAI API
+        response = requests.post(url, headers=headers, json=payload)
+        response.raise_for_status()  # Raise an error for HTTP issues
+        
+        # Parse the response JSON
+        data = response.json()
+        return data["choices"][0]["message"]["content"].strip()
+    except requests.exceptions.RequestException as e:
         print(f"Error querying model: {e}")
         raise
-
 
 @retry(wait=wait_fixed(10), stop=stop_after_attempt(6), before=before_retry_fn)
 def query_flant5_model(api_key, prompt):
@@ -187,7 +196,7 @@ def main():
     api_key = args.api
     model_query_function = query_chatgpt_model if args.model == "gpt" else query_flant5_model
 
-    process_dataset(dataset, output_folder, args.setting, model_query_function, api_key, args.data_source, args.filename, args.model)
+    process_dataset(dataset, output_folder, args.setting, model_query_function, api_key, args.model)
 
 if __name__ == "__main__":
     main()
