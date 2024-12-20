@@ -12,7 +12,7 @@ import requests
 def parse_args():
     parser = argparse.ArgumentParser(description="Classification Predictions")
     parser.add_argument("--setting", choices=["zero-shot", "few-shot", "chain-of-thought", "meta"], help="The type of prompt to use.")
-    parser.add_argument("--model", choices=["gpt-4o-mini", "gpt-3.5-turbo", "gpt-3.5-turbo-instruct", "flan-t5-large", "flan-t5-small"], help="The model to use.")
+    parser.add_argument("--model", choices=["gpt-4o-mini", "gpt-3.5-turbo", "flan-t5-large", "flan-t5-small"], help="The model to use.")
     parser.add_argument("--api", help="The OpenAI API key (only required for GPT models).")
     parser.add_argument("--data_source", help="Source directory containing the data file (e.g., poem_data).")
     parser.add_argument("--filename", help="Filename of the .csv file containing the data (e.g., data.csv).")
@@ -152,7 +152,7 @@ Usage:
 
 Arguments:
   --setting <setting>           (required) One of: zero-shot, few-shot, chain-of-thought, meta
-  --model <model>               (required) One of: gpt-4o-mini, gpt-3.5-turbo, gpt-3.5-turbo-instruct, flan-t5-large, flan-t5-small
+  --model <model>               (required) One of: gpt-4o-mini, gpt-3.5-turbo, flan-t5-large, flan-t5-small
   --api <API_KEY>               (required) Either Open-AI API key for gpt or HuggingFace access token for flant5 Inference API access
   --data_source <data_source>   (required) Source directory for dataset
   --filename <filename>         (required) Filename for dataset inside source directory

@@ -1,0 +1,192 @@
+Running evaluation for setting: zero-shot, model: gpt-4o-mini
+  Task: poem
+  Setting: zero-shot
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-4o-mini_predictions
+  Predictions Source File: predictions_gpt-4o-mini_zero-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-4o-mini_predictions/predictions_gpt-4o-mini_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.20      0.26      0.22       173
+           1       0.21      0.26      0.24       149
+           2       0.64      0.57      0.60       621
+           3       0.03      0.02      0.03        49
+
+    accuracy                           0.44       992
+   macro avg       0.27      0.28      0.27       992
+weighted avg       0.47      0.44      0.45       992
+
+Evaluation complete. F1 Score: 0.2722
+Results saved in gpt-4o-mini_poem_evaluation_results
+Running evaluation for setting: zero-shot, model: gpt-3.5-turbo
+  Task: poem
+  Setting: zero-shot
+  Model: gpt-3.5-turbo
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-3.5-turbo_predictions
+  Predictions Source File: predictions_gpt-3.5-turbo_zero-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-3.5-turbo_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-3.5-turbo_predictions/predictions_gpt-3.5-turbo_zero-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.31      0.44       174
+           1       0.35      0.90      0.50       150
+           2       0.95      0.24      0.38       625
+           3       0.06      0.43      0.10        49
+
+    accuracy                           0.36       998
+   macro avg       0.52      0.47      0.35       998
+weighted avg       0.78      0.36      0.40       998
+
+Evaluation complete. F1 Score: 0.3545
+Results saved in gpt-3.5-turbo_poem_evaluation_results
+Running evaluation for setting: few-shot, model: gpt-4o-mini
+  Task: poem
+  Setting: few-shot
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-4o-mini_predictions
+  Predictions Source File: predictions_gpt-4o-mini_few-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-4o-mini_predictions/predictions_gpt-4o-mini_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.20      0.32      0.24       173
+           1       0.20      0.31      0.24       149
+           2       0.64      0.43      0.52       623
+           3       0.11      0.14      0.12        49
+
+    accuracy                           0.38       994
+   macro avg       0.29      0.30      0.28       994
+weighted avg       0.47      0.38      0.41       994
+
+Evaluation complete. F1 Score: 0.2805
+Results saved in gpt-4o-mini_poem_evaluation_results
+Running evaluation for setting: few-shot, model: gpt-3.5-turbo
+  Task: poem
+  Setting: few-shot
+  Model: gpt-3.5-turbo
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-3.5-turbo_predictions
+  Predictions Source File: predictions_gpt-3.5-turbo_few-shot.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-3.5-turbo_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-3.5-turbo_predictions/predictions_gpt-3.5-turbo_few-shot.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.20      0.06      0.10       173
+           1       0.16      0.38      0.22       149
+           2       0.61      0.42      0.50       619
+           3       0.06      0.18      0.09        49
+
+    accuracy                           0.34       990
+   macro avg       0.26      0.26      0.23       990
+weighted avg       0.44      0.34      0.37       990
+
+Evaluation complete. F1 Score: 0.2268
+Results saved in gpt-3.5-turbo_poem_evaluation_results
+Running evaluation for setting: chain-of-thought, model: gpt-4o-mini
+  Task: poem
+  Setting: chain-of-thought
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-4o-mini_predictions
+  Predictions Source File: predictions_gpt-4o-mini_chain-of-thought.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-4o-mini_predictions/predictions_gpt-4o-mini_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.21      0.31      0.25       173
+           1       0.18      0.30      0.22       149
+           2       0.65      0.44      0.53       619
+           3       0.08      0.10      0.09        49
+
+    accuracy                           0.38       990
+   macro avg       0.28      0.29      0.27       990
+weighted avg       0.47      0.38      0.41       990
+
+Evaluation complete. F1 Score: 0.2721
+Results saved in gpt-4o-mini_poem_evaluation_results
+Running evaluation for setting: chain-of-thought, model: gpt-3.5-turbo
+  Task: poem
+  Setting: chain-of-thought
+  Model: gpt-3.5-turbo
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-3.5-turbo_predictions
+  Predictions Source File: predictions_gpt-3.5-turbo_chain-of-thought.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-3.5-turbo_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-3.5-turbo_predictions/predictions_gpt-3.5-turbo_chain-of-thought.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.25      0.21      0.23       173
+           1       0.17      0.48      0.25       148
+           2       0.68      0.40      0.51       619
+           3       0.08      0.10      0.09        49
+
+    accuracy                           0.37       989
+   macro avg       0.30      0.30      0.27       989
+weighted avg       0.50      0.37      0.40       989
+
+Evaluation complete. F1 Score: 0.2689
+Results saved in gpt-3.5-turbo_poem_evaluation_results
+Running evaluation for setting: meta, model: gpt-4o-mini
+  Task: poem
+  Setting: meta
+  Model: gpt-4o-mini
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-4o-mini_predictions
+  Predictions Source File: predictions_gpt-4o-mini_meta.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-4o-mini_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-4o-mini_predictions/predictions_gpt-4o-mini_meta.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       174
+           1       0.15      1.00      0.26       150
+           2       0.00      0.00      0.00       625
+           3       0.00      0.00      0.00        49
+
+    accuracy                           0.15       998
+   macro avg       0.04      0.25      0.07       998
+weighted avg       0.02      0.15      0.04       998
+
+Evaluation complete. F1 Score: 0.0653
+Results saved in gpt-4o-mini_poem_evaluation_results
+Running evaluation for setting: meta, model: gpt-3.5-turbo
+  Task: poem
+  Setting: meta
+  Model: gpt-3.5-turbo
+  Predictions Source Directory: poem_sentiment_data_truncated_gpt-3.5-turbo_predictions
+  Predictions Source File: predictions_gpt-3.5-turbo_meta.csv
+  True Labels Source Directory: poem_sentiment
+  True Labels Source File: data_truncated.csv
+  Output Directory: gpt-3.5-turbo_poem_evaluation_results
+Evaluating predictions from poem_sentiment_data_truncated_gpt-3.5-turbo_predictions/predictions_gpt-3.5-turbo_meta.csv against true labels in poem_sentiment/data_truncated.csv...
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.01      0.01       174
+           1       0.15      1.00      0.26       150
+           2       1.00      0.00      0.01       625
+           3       0.00      0.00      0.00        49
+
+    accuracy                           0.15       998
+   macro avg       0.54      0.25      0.07       998
+weighted avg       0.82      0.15      0.05       998
+
+Evaluation complete. F1 Score: 0.0700
+Results saved in gpt-3.5-turbo_poem_evaluation_results
